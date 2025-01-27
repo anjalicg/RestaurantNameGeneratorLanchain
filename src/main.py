@@ -16,7 +16,7 @@ if cuisine:
     for item in menu_items:
         print(f"DEBUG = {item}")
         if len(item.strip()) > 0:
-            st.write("-",item)
+            st.write(item.strip())
 
 
 
