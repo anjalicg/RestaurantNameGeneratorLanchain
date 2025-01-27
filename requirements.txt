@@ -1,0 +1,10 @@
+langchain-openai
+langchain
+openai
+langchain-community
+panel
+langchain
+langchain-experimental
+python-dotenv
+openai
+streamlit
